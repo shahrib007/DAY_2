@@ -18,7 +18,7 @@ displayDetails(){
 }
 }
 void main(){
-  Person p=Person("Vikrant", 31);
+  Person p=Person("SHARIB", 28);
   p.displayDetails();
   Person pN=Person.teenager("Unknown");
   pN.displayDetails();
